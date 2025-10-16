@@ -57,8 +57,8 @@ Repo Link: https://github.com/ramanujan-dev/raseed
 ## 🧩 Skills & Tools
 **Languages:** Python, JavaScript, SQL  
 **Frameworks:** TensorFlow, PyTorch, LangChain, Node.js, React  
-**Domains:** Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision  
-**Tools:** Git, Jupyter, VS Code, Power BI, Tableau
+**Domains:** Machine Learning, Deep Learning, Generative AI
+**Tools:** Git, Jupyter, VS Code, Power BI
 
 
 
