@@ -14,7 +14,7 @@ A smart portal that assists farmers with **plant disease detection** and **crop 
 
 ---
 
-### 🧠 [MindfulMate: Mental Health Support Chatbot](mindfull-companian.vercel.app)
+### 🧠 [MindfulMate: Mental Health Support Chatbot](https://mindfull-companian.vercel.app)
 A **Generative AI-based** mental health chatbot offering emotional support for users experiencing **stress, anxiety, or insomnia**.  
 - **Tech Stack:** Python, NLP (Transformers), OpenAI API, Flask  
 - **Highlights:** Emotion detection, context-aware dialogue, mindfulness guidance.
